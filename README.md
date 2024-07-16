@@ -19,7 +19,7 @@ Welcome to our Book Recommendation System, a collaborative filtering-based recom
 To get started with the Book Recommendation System, clone the repository and follow the setup instructions.
 
 ```sh
-git clone https://github.com/ujaslathiya/Book-Recommendation-System.git
+git clone https://github.com/Kaushalvadadoria28/Recommendation-System.git
 cd Book-Recommendation-System
 ```
 
